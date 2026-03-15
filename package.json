@@ -2,9 +2,11 @@
   "name": "snsn-codex",
   "type": "module",
   "version": "0.0.1",
+  "author": "sanasuno",
   "engines": {
     "node": ">=22.12.0"
   },
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
